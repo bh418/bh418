@@ -9,8 +9,6 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-  ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
-  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
   
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
