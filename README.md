@@ -17,6 +17,9 @@ Especially I have rich experience with the latest Javascript frameworks such as 
 I had already built so many Websites with the mentioned skill.
 
 <br />
+ <div>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
+</div>
 
 
 **Languages and Tools:**
