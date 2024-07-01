@@ -4,17 +4,18 @@
 
   <br />
   
-  Hi, I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+I'm a software engineer, specialising in the unique intersection of blockchain technology, web and desktop development.
+With an expansive toolkit of programming languages and frameworks, I embody a holistic approach to software solutions, from top-tier front-end execution to seamless back-end processes.
+A significant part of my expertise lies in the dynamic realm of blockchain technology.
+I have spent years addressing the challenges and exploiting the opportunities connected with blockchain platforms, smart contracts, and decentralised applications.
+These experiences have afforded me a deep understanding of blockchain principles and their transformative potential for businesses across industries.
 
-I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js |
+In addition to web development - full stack - and desktop applications, I excel in software architecture, constructing the fundamental structure of a system that best solves specified requirements.
+I adeptly balance trade-offs among scalability, reliability, performance, and security to generate software systems that consistently deliver.
 
-My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
+As a project management professional, I have experience in leading cross-functional teams to success, leveraging agile and waterfall methodologies to ensure projects meet deadlines and stay within budget.
 
-I have developing sites using React, Nextjs, Laravel, WordPress, and Python/Django, and much more.
-
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
-
-I had already built so many Websites with the mentioned skill.
+In every project, I am driven by the challenge of creating impactful, efficient, and sustainable software solutions, utilising the power of technology to drive innovation and transformation.
 
 <br />
  <div>
