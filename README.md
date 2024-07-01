@@ -4,17 +4,6 @@
 
   <br />
   
-I'm a software engineer, specialising in the unique intersection of blockchain technology, web and desktop development.<br />
-With an expansive toolkit of programming languages and frameworks, I embody a holistic approach to software solutions, from top-tier front-end execution to seamless back-end processes.
-A significant part of my expertise lies in the dynamic realm of blockchain technology.<br />
-I have spent years addressing the challenges and exploiting the opportunities connected with blockchain platforms, smart contracts, and decentralised applications.<br />
-These experiences have afforded me a deep understanding of blockchain principles and their transformative potential for businesses across industries.
-
-In addition to web development - full stack - and desktop applications, I excel in software architecture, constructing the fundamental structure of a system that best solves specified requirements.
-I adeptly balance trade-offs among scalability, reliability, performance, and security to generate software systems that consistently deliver.
-
-As a project management professional, I have experience in leading cross-functional teams to success, leveraging agile and waterfall methodologies to ensure projects meet deadlines and stay within budget.
-
 In every project, I am driven by the challenge of creating impactful, efficient, and sustainable software solutions, utilising the power of technology to drive innovation and transformation.
 
 <br />
