@@ -3,6 +3,9 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <br />
+
+  I'm a software engineer, specialising in the unique intersection of blockchain technology, web and desktop development.<br />
+With an expansive toolkit of programming languages and frameworks, I embody a holistic approach to software solutions, from top-tier front-end execution to seamless back-end processes.
   
 In every project, I am driven by the challenge of creating impactful, efficient, and sustainable software solutions, utilising the power of technology to drive innovation and transformation.
 
