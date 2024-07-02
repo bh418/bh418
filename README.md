@@ -9,9 +9,10 @@ With an expansive toolkit of programming languages and frameworks, I embody a ho
   
 In every project, I am driven by the challenge of creating impactful, efficient, and sustainable software solutions, utilising the power of technology to drive innovation and transformation.
 
-
-
-
+<br />
+<div>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
+</div>
 
 **Languages and Tools:**
 
@@ -47,10 +48,7 @@ In every project, I am driven by the challenge of creating impactful, efficient,
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
-<br />
-<div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
-</div>
+
 
 <div>
   <p align="center">
