@@ -53,7 +53,7 @@ In every project, I am driven by the challenge of creating impactful, efficient,
     </a>
   </p>
 <p align="center">
-  <a href="https://github.com/dh418v">
+  <a href="https://wakatime.com/@simba0808">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=dh0418v&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
       width="95%" alt="activity graph">
