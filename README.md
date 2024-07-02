@@ -7,7 +7,7 @@ With an expansive toolkit of programming languages and frameworks, I embody a ho
   
 In every project, I am driven by the challenge of creating impactful, efficient, and sustainable software solutions, utilising the power of technology to drive innovation and transformation.
 
-## Favourite Technologies ## 
+#### Favourite Technologies ####
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
