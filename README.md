@@ -7,7 +7,29 @@ With an expansive toolkit of programming languages and frameworks, I embody a ho
   
 In every project, I am driven by the challenge of creating impactful, efficient, and sustainable software solutions, utilising the power of technology to drive innovation and transformation.
 
-**My Favorites Techs:**
+
+
+
+<br />
+<div>
+  <p align="center">
+  <a href="https://github.com/dh418v">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=dh418v&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
+      width="95%" alt="activity graph">
+  </a>
+</p>
+  <p align="center">
+    <a href="https://github.com/dh418v?tab=repositories">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dh418v&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
+    </a>
+    <a href="https://github.com/dh418v?tab=stars">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=dh418v&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@CryptoNinja's github-readme-streak-stats"/>
+    </a>
+  </p>
+
+
+</div>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
@@ -28,25 +50,5 @@ In every project, I am driven by the challenge of creating impactful, efficient,
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
-
-<br />
-<div>
-  <p align="center">
-    <a href="https://github.com/dh418v?tab=repositories">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dh418v&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
-    </a>
-    <a href="https://github.com/dh418v?tab=stars">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=dh418v&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@CryptoNinja's github-readme-streak-stats"/>
-    </a>
-  </p>
-<p align="center">
-  <a href="https://github.com/dh418v">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=dh418v&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
-      width="95%" alt="activity graph">
-  </a>
-</p>
-
-</div>
 
 
