@@ -46,6 +46,30 @@ In every project, I am driven by the challenge of creating impactful, efficient,
     </td>
     <td align="center" width="128">
       <img
+        src="https://gydocument.readthedocs.io/en/latest/_images/logo.svg"
+        width="65"
+        height="65"
+        alt="solidity" />
+        <br />Solidity
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=ruby"
+        width="65"
+        height="65"
+        alt="Ruby" />
+      <br />Ruby
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=go"
+        width="65"
+        height="65"
+        alt="MongoDB" />
+      <br />Go
+    </td>
+    <td align="center" width="128">
+      <img
         src="https://techstack-generator.vercel.app/react-icon.svg"
         alt="icon"
         width="65"
@@ -118,14 +142,7 @@ In every project, I am driven by the challenge of creating impactful, efficient,
         alt="tailwind" />
       <br />Tailwind
     </td>
-    <td align="center" width="128">
-      <img
-        src="https://gydocument.readthedocs.io/en/latest/_images/logo.svg"
-        width="65"
-        height="65"
-        alt="bootstrap" />
-        <br />Bootstrap
-    </td>
+
     <td align="center" width="128">
       <img
         src="https://skillicons.dev/icons?i=jquery"
@@ -183,22 +200,6 @@ In every project, I am driven by the challenge of creating impactful, efficient,
         height="65"
         alt="Git" />
       <br />Git
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=go"
-        width="65"
-        height="65"
-        alt="MongoDB" />
-      <br />Go
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=ruby"
-        width="65"
-        height="65"
-        alt="Ruby" />
-      <br />Ruby
     </td>
     <td align="center" width="128">
       <img
