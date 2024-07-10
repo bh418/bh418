@@ -46,11 +46,11 @@ In every project, I am driven by the challenge of creating impactful, efficient,
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/react-icon.svg"
-        alt="icon"
+        src="https://gydocument.readthedocs.io/en/latest/_images/logo.svg"
         width="65"
-        height="65" />
-      <br />React
+        height="65"
+        alt="solidity" />
+        <br />Solidity
     </td>
     <td align="center" width="128">
       <img
@@ -120,11 +120,11 @@ In every project, I am driven by the challenge of creating impactful, efficient,
     </td>
     <td align="center" width="128">
       <img
-        src="https://gydocument.readthedocs.io/en/latest/_images/logo.svg"
+        src="https://techstack-generator.vercel.app/react-icon.svg"
+        alt="icon"
         width="65"
-        height="65"
-        alt="solidity" />
-        <br />Solidity
+        height="65" />
+      <br />React
     </td>
     <td align="center" width="128">
       <img
