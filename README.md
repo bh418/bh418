@@ -7,28 +7,207 @@ With an expansive toolkit of programming languages and frameworks, I embody a ho
   
 In every project, I am driven by the challenge of creating impactful, efficient, and sustainable software solutions, utilising the power of technology to drive innovation and transformation.
 
-#### Favourite Technologies ####
 
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
-
+<table align="center">
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/js-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/ts-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/react-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />React
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=nextjs"
+        width="65"
+        height="65"
+        alt="NextJS" />
+      <br />NextJS
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=nodejs"
+        width="65"
+        height="65"
+        alt="NodeJS" />
+      <br />NodeJS
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=express"
+        width="65"
+        height="65"
+        alt="Express" />
+      <br />Express
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=mongodb"
+        width="65"
+        height="65"
+        alt="MongoDB" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/mysql-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=html"
+        width="65"
+        height="65"
+        alt="HTML5" />
+      <br />HTML5
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/sass-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Sass
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=tailwind"
+        width="65"
+        height="65"
+        alt="tailwind" />
+      <br />Tailwind
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=bootstrap"
+        width="65"
+        height="65"
+        alt="bootstrap" />
+        <br />Bootstrap
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=jquery"
+        width="65"
+        height="65"
+        alt="jQuery" />
+      <br />jQuery
+    </td>
+    <td align="center" width="128">
+      <img
+      src="https://skillicons.dev/icons?i=php"
+      width="65"
+      height="65"
+        alt="PHP" />
+      <br />PHP
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/webpack-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Webpack
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=vscode"
+        width="65"
+        height="65"
+        alt="VsCode" />
+      <br />VsCode
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/aws-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />AWS
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/github-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Github
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+        width="65"
+        height="65"
+        alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=go"
+        width="65"
+        height="65"
+        alt="MongoDB" />
+      <br />Go
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=ruby"
+        width="65"
+        height="65"
+        alt="Ruby" />
+      <br />Ruby
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=postgres"
+        width="65"
+        height="65"
+        alt="PostgreSQL" />
+      <br />PostgreSQL
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=fastapi"
+        width="65"
+        height="65"
+        alt="FastAPI" />
+      <br />FastAPI
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/docker-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Docker
+    </td>
+  </tr>
+</table>
 <br />
 <div>
   <p align="center">
