@@ -152,11 +152,11 @@ In every project, I am driven by the challenge of creating impactful, efficient,
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=vscode"
+        src="https://www.rust-lang.org/static/images/rust-logo-blk.svg"
         width="65"
         height="65"
-        alt="VsCode" />
-      <br />VsCode
+        alt="Rust" />
+      <br />Rust
     </td>
   </tr>
   <tr>
