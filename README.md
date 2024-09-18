@@ -1,6 +1,3 @@
-
-
-### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <div>
   <p align="center">
   <a href="https://github.com/0418v">
