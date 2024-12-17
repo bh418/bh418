@@ -203,10 +203,10 @@
 <div>
   <p align="center">
     <a href="https://github.com/bh418?tab=repositories">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=bh418&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Leon's github-readme-stats"/>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=bh418&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@BH's github-readme-stats"/>
     </a>
     <a href="https://github.com/bh418?tab=stars">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=bh418&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Leon's github-readme-streak-stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=bh418&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@BH's github-readme-streak-stats"/>
     </a>
   </p>
 </div>
